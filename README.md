@@ -1,3 +1,23 @@
+🔸 supabase.comで`todos`テーブルを作成
+todosテーブル
+```
+id: int, created_at: timestamp, todo_item: text
+※id、created_atはデフォルトで作られたはず...
+```
+
+<img width="1465" height="605" alt="スクリーンショット 2025-10-13 16 00 16" src="https://github.com/user-attachments/assets/0e06f120-349c-4ac8-8fa0-f175ca3803f7" />
+
+
+🔸プロジェクト直下に.env.localを作成
+
+`NEXT_PUBLIC_SUPABASE_URL=http://~`
+
+`NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9`
+
+<img width="1449" height="587" alt="スクリーンショット 2025-10-13 15 56 55" src="https://github.com/user-attachments/assets/3d1adae5-bf5a-48a5-9b1d-8ac665ffa879" />
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
