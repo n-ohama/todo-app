@@ -1,3 +1,7 @@
+🔸見た目
+<img width="1467" height="438" alt="スクリーンショット 2025-10-13 16 03 47" src="https://github.com/user-attachments/assets/31f39151-6aee-4d8b-9d4a-9033f2b9b742" />
+
+
 🔸 supabase.comで`todos`テーブルを作成
 todosテーブル
 ```
