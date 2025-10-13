@@ -17,9 +17,9 @@ id: int, created_at: timestamp, todo_item: text
 
 🔸プロジェクト直下に.env.localを作成
 
-`NEXT_PUBLIC_SUPABASE_URL=http://~`
+`NEXT_PUBLIC_SUPABASE_URL=`
 
-`NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9`
+`NEXT_PUBLIC_SUPABASE_ANON_KEY=`
 
 <img width="1449" height="587" alt="スクリーンショット 2025-10-13 15 56 55" src="https://github.com/user-attachments/assets/3d1adae5-bf5a-48a5-9b1d-8ac665ffa879" />
 
